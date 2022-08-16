@@ -1,0 +1,5 @@
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VLDK2\\OneDrive\\Рабочий стол\\GB\\C#\\Examples\\Example007_While\\Example007_While.csproj",
-      "projectName": "Example007_While",
-      "projectPath": "C:\\Users\\VLDK2\\OneDrive\\Рабочий стол\\GB\\C#\\Examples\\Example007_While\\Example007_While.csproj",
+      "projectUniqueName": "C:\\Users\\VLDK2\\OneDrive\\Рабочий стол\\GB\\C#\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+      "projectName": "Example007_Magic",
+      "projectPath": "C:\\Users\\VLDK2\\OneDrive\\Рабочий стол\\GB\\C#\\Examples\\Example007_Magic\\Example007_Magic.csproj",
       "packagesPath": "C:\\Users\\VLDK2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VLDK2\\OneDrive\\Рабочий стол\\GB\\C#\\Examples\\Example007_While\\obj\\",
+      "outputPath": "C:\\Users\\VLDK2\\OneDrive\\Рабочий стол\\GB\\C#\\Examples\\Example007_Magic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VLDK2\\AppData\\Roaming\\NuGet\\NuGet.Config"
