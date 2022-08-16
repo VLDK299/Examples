@@ -1,0 +1,5 @@
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_While\obj\Debug\net6.0\Example007_While.csproj.AssemblyReference.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_While\obj\Debug\net6.0\Example007_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_While\obj\Debug\net6.0\Example007_While.AssemblyInfoInputs.cache
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_While\obj\Debug\net6.0\Example007_While.AssemblyInfo.cs
+C:\Users\VLDK2\OneDrive\Рабочий стол\GB\C#\Examples\Example007_While\obj\Debug\net6.0\Example007_While.csproj.CoreCompileInputs.cache
